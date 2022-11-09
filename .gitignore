@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CoE_Challenge_2/.vs
+/CoE_Challenge_2/bin/Debug/net6.0
+/CoE_Challenge_2/obj
+/.vs
